@@ -34,6 +34,8 @@
     "@nx/jest": "19.2.2",
     "@nx/js": "19.2.2",
     "@nx/playwright": "19.2.2",
+    "@nx/web": "19.2.2",
+    "@nx/webpack": "19.2.2",
     "@nx/workspace": "19.2.2",
     "@playwright/test": "^1.36.0",
     "@schematics/angular": "~18.0.0",
