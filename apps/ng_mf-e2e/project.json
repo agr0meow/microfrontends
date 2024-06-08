@@ -1,0 +1,9 @@
+{
+  "name": "ng_mf-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/ng_mf-e2e/src",
+  "implicitDependencies": ["ng_mf"],
+  "// targets": "to see all targets run: nx show project ng_mf-e2e --web",
+  "targets": {}
+}
